@@ -1,7 +1,7 @@
 # Hello World
 This is my home page! My name is Alton Bonilla and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science.
 
-## Computer Science Projects
+# Computer Science Projects
 My GitHub page is [Alton7759](http://github.com/Alton7759).
 
 ### CPSC 120
